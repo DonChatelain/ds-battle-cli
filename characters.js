@@ -40,7 +40,7 @@ const fighters = [
             def: 6,
             name: 'Rhea of Thoroland',
             shortName: 'Rhea',
-            attackDescription: 'conjures of the Wrath of the Gods',
+            attackDescription: 'conjures the Wrath of the Gods',
         }
     },
     
